@@ -1,8 +1,10 @@
 <h2 align="center">Major</h2>
 <p align="center">IT Engineering 💻</p>
 <div>
-<li> 👀 I’m interested in Web/App Programming. </li>
-<li> 🌱 I’m currently learning Java Spring Boot, C++, Django, and Android App Programming. </li>
+  <li> 👀 I’m interested in Web/App Programming. </li>
+  <li> 🌱 I’m currently learning Java Spring Boot, C++, Django, and Android App Programming. </li>
+  <li> Back-End Engineer</li>
+  <li> Server Developer - using Spring Boot</li>
 </div>
 
 
