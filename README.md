@@ -3,8 +3,8 @@
 <h3>Major</h3>
 <p>IT Engineering 💻</p>
 <div>
-  <li> 👀 I’m interested in Web/App Programming. </li>
-  <li> 🌱 I’m currently learning Java Spring Boot, C++, Django, and Android App Programming. </li>
+  <li> 👀 I’m interested in Web Programming. </li>
+  <li> 🌱 I’m currently learning Java Spring Boot and React.js. </li>
   <li> Back-End Engineer</li>
   <li> Server Developer - using Spring Boot</li>
 </div>
