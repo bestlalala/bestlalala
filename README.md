@@ -2,12 +2,6 @@
 <p>Sookmyung Women's University(2020~)</p>
 <h3>Major</h3>
 <p>IT Engineering 💻</p>
-<div>
-  <li> 👀 I’m interested in Web Programming. </li>
-  <li> 🌱 I’m currently learning Java Spring Boot and React.js. </li>
-  <li> Back-End Engineer</li>
-  <li> Server Developer - using Spring Boot</li>
-</div>
 
 
 <h2 align="center">🛠Tech🛠</h2>
@@ -17,7 +11,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
-<h3 align="center">Skills that I've used at least once</h3>
+<h3 align="center">Skills</h3>
 <div align = "center">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -35,3 +29,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
+
+[![Solved.ac
+bestlalala](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
