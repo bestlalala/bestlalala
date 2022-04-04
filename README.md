@@ -30,5 +30,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
 
-[![Solved.ac
-bestlalala](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac bestlalala](http://mazassumnida.wtf/api/v2/generate_badge?boj={bestlalala})](https://solved.ac/{bestlalala})
