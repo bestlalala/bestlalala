@@ -29,5 +29,5 @@
 </div>
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestlalala&show_icons=true&theme=tokyonight&text_color=faf7f6)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestlalala&show_icons=true&theme=tokyonight&text_color=faf7f6&border_radius=20&card_width=400)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bestlalala)](https://solved.ac/bestlalala)
