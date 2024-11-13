@@ -11,3 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bestlalala&show_icons=true&theme=tokyonight&text_color=faf7f6&border_radius=20&card_width=200"/>
   <a href="https://solved.ac/bestlalala"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bestlalala" alt="Solved.ac Profile"></a>
 </div>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/bestlalala"
+  width="600"
+  height="300"
+/>
+</a>
